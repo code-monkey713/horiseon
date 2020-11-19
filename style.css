@@ -93,6 +93,69 @@ logo {
     margin-left: 20px;
 }
 
+/* move and combine with content class */
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* move and combine with content class */
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* move and combine with content class */
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* move and combine with content class */
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+/* move and combine with content class */
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+/* move and combine with content class */
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+/* move and combine with content type title */
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* move and combine with content type title */
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* move and combine with content type title */
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* styling controls for benefits on the bottom right section */
 .benefits {
     margin-right: 20px;
@@ -160,69 +223,6 @@ logo {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-/* move and combine with content class */
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* move and combine with content class */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* move and combine with content class */
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* move and combine with content class */
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-/* move and combine with content class */
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-/* move and combine with content class */
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-/* move and combine with content type title */
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* move and combine with content type title */
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* move and combine with content type title */
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /* formatting for the copyright section */
