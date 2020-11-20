@@ -187,62 +187,81 @@ aside {
     background-color: #2589bd;
 }
 
-/* combine into one CSS */
+aside section {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* combine into one CSS 
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* combine into one CSS */
+/* combine into one CSS 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* combine into one CSS */
+/* combine into one CSS 
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
+*/
 
-/* combine into one for h3 */
+aside section h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* combine into one for h3 
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* combine into one for h3 */
+/* combine into one for h3 
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* combine into one for h3 */
+/* combine into one for h3 
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+*/
 
-/* combine into one img css */
+aside section img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* combine into one img css 
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* combine into one img css */
+/* combine into one img css 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* combine into one img css */
+/* combine into one img css 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+*/
 
 /* formatting for the copyright section */
 footer {
