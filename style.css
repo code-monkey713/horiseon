@@ -151,24 +151,30 @@ main section img {
     max-height: 200px;
 }
 */
-/* move and combine with content type title */
+
+main section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* move and combine with content type title 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* move and combine with content type title */
+/* move and combine with content type title 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* move and combine with content type title */
+/* move and combine with content type title 
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+*/
 /* styling controls for benefits on the bottom right section */
 .benefits {
     margin-right: 20px;
