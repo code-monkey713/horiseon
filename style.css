@@ -226,7 +226,7 @@ logo {
 }
 
 /* formatting for the copyright section */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -234,6 +234,6 @@ logo {
 }
 
 /* formatting for the made with love portion */
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
