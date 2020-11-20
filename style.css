@@ -62,10 +62,8 @@ p {
 
 /* style control for picture */
 logo {
-    /*
     height: 800px;
     width: 100%;
-    */
     margin-bottom: 25px;
     /* corrected image link for main html page 
     background-image: url("images/digital-marketing-meeting.jpg");
