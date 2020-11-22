@@ -12,7 +12,7 @@ This project stands out for me because it was the first time I heard of the term
 
 Here is a link to the deployed project. 
 
-<link>
+<https://code-monkey713.github.io/horiseon/>
 
 ## Installation
 
