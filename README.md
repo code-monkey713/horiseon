@@ -21,7 +21,7 @@ Your this project, you can visit the site to view the content. You can inspect t
 Please follow the link to go to the site. 
 
 ```md
-![screenshot](images/screenshot.png)
+![screenshot](images/Screenshot-horiseon.jpg)
 ```
 ## Credits
 
