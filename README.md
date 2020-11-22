@@ -16,9 +16,9 @@ Here is a link to the deployed project.
 
 ## Installation
 
-Your this project, you can visit the site to view the content. You can inspect the page for the code. 
+For this project, you can visit the site to view the content. You can inspect the page for the codes. 
 ## Usage
-Please follow the link to go to the site. 
+Please follow the link to go to the site. Screenshots can be viewed with the link below. 
 
 ```md
 ![screenshot](images/Screenshot-horiseon.jpg)

@@ -1,16 +1,24 @@
-/* the style used for this page */
+/*The style for the page.*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* the background color of the entire page */
 body {
     background-color: #d9dcd6;
 }
 
-/* renamed header here to match with HTML file; the font type, color, background color, and padding of the header */
+p {
+    font-size: 16px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*This is the header style.*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,19 +26,18 @@ header {
     color: #ffffff;
 }
 
-/* company logo style */ 
+/*Company name style.*/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* font color for the 'seo' portion of the name */
 header h1 .seo {
     color: #d9dcd6;
 }
 
-/* the links on the header to the sections of the page */
-header div {
+/*Style for navigation links on header.*/
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -38,50 +45,33 @@ header div {
     font-size: 20px;
 }
 
-/* unordered list style */
-header div ul {
+header nav ul {
     list-style-type: none;
 }
 
-/* list items style */
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* link decoration color and text decoration */
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-/* font size for paragraph */
-p {
-    font-size: 16px;
-}
-
-/* style control for picture */
+/*Main picture style.*/
 figure {
     margin-bottom: 25px;
-    /* corrected image link for main html page */
-    /* background-image: url("images/digital-marketing-meeting.jpg"); */
     background-size: cover;
     background-position: center;
 }
 
-/* left sided float styling */
+/*This is the main services sections.*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/* right side float styling */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-/* styling control for content section */
 main {
     width: 75%;
     display: inline-block;
@@ -97,80 +87,16 @@ main section {
     color: #ffffff;
 }
 
-/* move and combine with content class
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* move and combine with content class
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* move and combine with content class
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-*/
 main section img {
     max-height: 200px;
 }
-
-/* move and combine with content class 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-/* move and combine with content class 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-/* move and combine with content class 
-.social-media-marketing img {
-    max-height: 200px;
-}
-*/
 
 main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* move and combine with content type title 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* move and combine with content type title 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* move and combine with content type title 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-*/
-/* styling controls for benefits on the bottom right section */
+/*Aside style sections for benefits bottom right.*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -187,48 +113,10 @@ aside section {
     color: #ffffff;
 }
 
-/* combine into one CSS 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* combine into one CSS 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* combine into one CSS 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-*/
-
 aside section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-/* combine into one for h3 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* combine into one for h3 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* combine into one for h3 
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-*/
 
 aside section img {
     display: block;
@@ -236,29 +124,7 @@ aside section img {
     max-width: 150px;
 }
 
-/* combine into one img css 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* combine into one img css 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* combine into one img css 
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-*/
-
-/* formatting for the copyright section */
+/*Footer style and the copyright section.*/
 footer {
     padding: 30px;
     clear: both;
@@ -266,7 +132,6 @@ footer {
     text-align: center;
 }
 
-/* formatting for the made with love portion */
 footer h2 {
     font-size: 20px;
 }
