@@ -18,11 +18,10 @@ Here is a link to the deployed project.
 
 For this project, you can visit the site to view the content. You can inspect the page for the codes. 
 ## Usage
-Please follow the link to go to the site. Screenshots can be viewed with the link below. 
+Screenshot provided below. 
 
-```md
 ![screenshot](images/Screenshot-horiseon.jpg)
-```
+
 ## Credits
 
 I would like to give credit to my instructor Tish McNeel for some wonderful tutorials for HTML and CSS to help me complete this project. 
