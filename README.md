@@ -1,31 +1,61 @@
 # Horiseo Social Solution Services, Inc.
 
+License: ![License](https://img.shields.io/badge/license-MIT-green)
+Tech Stack: ![HTML](https://img.shields.io/badge/HTML-version5-orange) ![CSS](https://img.shields.io/badge/CSS-version3-green)
+
+This is Horiseon Social Solution marketing agency website that was refactored to meet accessibility and SEO ready. 
+
 ## Description
 
 I was just hired at a marketing agency to review their current codes and make it meet accessibility standards of today. This also requires that the site is optimized for search engines. 
 
-This project involves taking existing HTML and CSS codes and to improve it without changing the primary function of the code. This is called refactor. This was done to meet the requirement of making the existing website accessible for people with disabilities that cannot access the website. 
+This project involves taking existing HTML and CSS codes and to improve it without changing the primary function of the code. This was done to meet the requirement of making the existing website accessible for people with disabilities that cannot access the website. 
 
-This project helped me get acquintanted with HTML and CSS. This project will help me to development a good framework for how to write my HTML and CSS codes going forward in class, job, or career. 
+![screenshot](./images/screenshot.png)
 
-This project stands out for me because it was the first time I heard of the term "accessibility" and symantic elements. 
+## Table of Contents
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+* [References](#references)
+
+## Installation
+
+For this project, you can visit the site to view the content. You can inspect the page for the codes. 
+
+## Usage
 
 Here is a link to the deployed project. 
 
 <https://code-monkey713.github.io/horiseon/>
 
-## Installation
-
-For this project, you can visit the site to view the content. You can inspect the page for the codes. 
-## Usage
-Screenshot provided below. 
-
-![screenshot](images/Screenshot-horiseon.jpg)
-
-## Credits
-
-I would like to give credit to my instructor Tish McNeel for some wonderful tutorials for HTML and CSS to help me complete this project. 
-
 ## License
 
-There is no license for this project. 
+MIT
+
+## Contributing
+
+If you would like to contribute to this project, you can fork a copy of the repo and make changes or improvements on your repo. Once ready, you can request a push and I will review the changes before updating the repo. 
+
+## Tests
+
+There are no tests with this application. Let me know if you are interested in creating a test for this application. 
+
+## Questions
+
+If you have any questions, feel free to contact me directly and listed below are my contact informations. 
+
+GitHub profile: code-monkey713
+
+Email: tony.tran713@outlook.com
+
+My Portfolio with a link to this project: 
+https://code-monkey713.github.io/tony-react-portfolio/
+
+## References
+
+
